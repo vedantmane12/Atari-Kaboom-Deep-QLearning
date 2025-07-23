@@ -1,0 +1,9 @@
+{
+  "game": "Kaboom",
+  "reward_structure": {
+    "unique_rewards_observed": [],
+    "total_non_zero_rewards": 0,
+    "reward_explanation": "In Kaboom, you catch bombs with buckets. Positive rewards for catching bombs, game ends if you miss too many.",
+    "why_this_structure": "This reward structure encourages the agent to position buckets under falling bombs. The immediate feedback helps the agent learn the connection between actions and catching/missing bombs."
+  }
+}

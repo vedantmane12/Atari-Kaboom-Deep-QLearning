@@ -1,0 +1,24 @@
+{
+  "baseline_random": {
+    "mean_score": 3.45,
+    "mean_steps": 192.75
+  },
+  "dqn_default": {
+    "mean_score": 8.95,
+    "max_score": 20.0,
+    "improvement_over_random": 5.499999999999999
+  },
+  "hyperparameter_tests": {
+    "high_lr_mean": 6.8,
+    "low_gamma_mean": 3.9
+  },
+  "exploration_policies": {
+    "epsilon_greedy_mean": 8.95,
+    "boltzmann_mean": 8.3
+  },
+  "epsilon_decay_tests": {
+    "fast_decay_mean": 8.2,
+    "slow_decay_mean": 6.65,
+    "low_start_mean": 9.45
+  }
+}

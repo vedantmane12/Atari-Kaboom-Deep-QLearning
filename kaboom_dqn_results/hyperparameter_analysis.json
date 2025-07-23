@@ -1,0 +1,21 @@
+{
+  "baseline_random_mean": 3.45,
+  "default_config": {
+    "alpha": 0.00025,
+    "gamma": 0.99,
+    "mean_score": 8.95,
+    "improvement_over_random": 5.499999999999999
+  },
+  "high_lr_config": {
+    "alpha": 0.001,
+    "gamma": 0.99,
+    "mean_score": 6.8,
+    "performance_vs_default": -24.02234636871508
+  },
+  "low_gamma_config": {
+    "alpha": 0.00025,
+    "gamma": 0.8,
+    "mean_score": 3.9,
+    "performance_vs_default": -56.42458100558658
+  }
+}

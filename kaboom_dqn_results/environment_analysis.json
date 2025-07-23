@@ -1,0 +1,22 @@
+{
+  "state_space": {
+    "type": "Image (RGB)",
+    "shape": [
+      210,
+      160,
+      3
+    ],
+    "total_pixels": 100800
+  },
+  "action_space": {
+    "type": "Discrete",
+    "n_actions": 4,
+    "actions": [
+      "NOOP",
+      "FIRE",
+      "RIGHT",
+      "LEFT"
+    ]
+  },
+  "q_table_size": "Not applicable - using Deep Q-Network instead of Q-table"
+}

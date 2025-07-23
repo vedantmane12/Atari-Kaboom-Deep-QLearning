@@ -1,0 +1,10 @@
+{
+  "architecture": "CNN-based DQN",
+  "input_shape": [
+    210,
+    160,
+    3
+  ],
+  "output_shape": 4,
+  "total_parameters": 11612836
+}
